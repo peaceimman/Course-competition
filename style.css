@@ -1,0 +1,68 @@
+h1{
+  text-align:center;
+  /*padding-top:10px;*/
+  padding-bottom: 10px;
+}
+.list{
+  text-align: center;
+}
+ul{
+  padding:10px;
+  background:rgba(0,0,0,0.5);
+}
+li{
+  display: inline;
+  padding:0px 10px 0px 10px;
+}
+a{
+  color:white;
+}
+h2{
+  text-align:center;
+}
+body {
+  font-family: helvetica, sans-serif;
+  margin:0 auto;
+  max-width: 600px;
+
+}
+/*.Kidzania{
+  background:url("https://kidzania.co.uk/app/kidzania/assets/images/hgcnvhj.jpg?v=1539762237")
+}*/
+/*.oxygenfreejumpingacton{
+  background: url("https://media.dayoutwiththekids.co.uk/media/21861/acton_image_ofj_01.jpg?anchor=center&mode=crop&quality=75&width=834&height=467")
+}*/
+/*.Extremeaquasplash{
+  background:url("https://media.timeout.com/images/103935432/750/562/image.jpg")*/
+}
+.div200 {
+  font-size:0;
+  margin:40px 0 0 0;
+  border-radius:12px;
+}
+.div200 img {
+  width: 100%;
+}
+.div200 p {
+  margin-top:0;
+  color:rgba(255,255,255,1);
+  background:rgba(63, 191, 127, 1);
+  padding:10px;
+  text-align:justify;
+  line-height:28px;
+  font-size:16px;
+}
+/*
+div{
+background-size:cover;
+position: relative;
+margin:40px 0 0 0;
+border-radius:12px;
+}
+p{
+
+position:absolute;
+bottom:0;
+margin:0;
+}
+*/
