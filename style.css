@@ -59,12 +59,7 @@ body {
   line-height:28px;
   font-size:16px;
 }
-.divbutton btn btn-success{
-  background-color:yellow;
-  border:none;
-  padding:400px;
-  margin-bottom: 15px;
-}
+
 .fa-pinterest {
   background: #cb2027;
   color: white;
